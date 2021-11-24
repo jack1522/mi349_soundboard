@@ -1,0 +1,38 @@
+
+body {
+    margin: 40px;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    margin:40px;
+    padding: 10px;
+    
+    background-image: linear-gradient(to right, pink, yellow);
+    display: flex;
+    flex-wrap :wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .btn{
+      background-color:rgb(65, 194, 245);
+      height: 100px;
+      width: 150px;
+      margin: 100px;
+      cursor: pointer;
+      font-family:  Helvetica;
+      border-color: pink;
+      border-width: 5px ;
+      
+}
+
+.btn:hover{
+    box-shadow: inset 150px 000 yellow;
+}
+#buttons{
+    background-image: linear-gradient(to right, rgb(243, 247, 39), pink )
+}
+
+#thunderstruck {
+      background-color: green;
+  }
