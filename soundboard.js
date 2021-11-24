@@ -1,5 +1,5 @@
-const sounds= ["Thunderstruck","GaryMoore","Chris Stapelton","Nirvana","ChuckBerry","Spongebob","Guitar Solo","Nokia",
- "****STOP THE JAM****"];
+const sounds= ["Thunderstruck","GaryMoore","ChrisStapelton","Nirvana","ChuckBerry","Spongebob","GuitarSolo","Nokia",
+ "STOP"];
 
 
 sounds.forEach((sound) => {
